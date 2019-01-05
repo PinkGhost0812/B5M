@@ -1,0 +1,276 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.bigest{
+	width: 1180px;
+	margin:0 auto;
+	background-color: #f8f7f6;
+}
+#top{
+	background-color: #ffffff;
+	width: 1180px;
+	height: 179px;
+	z-index: 999;
+}
+.QQ{
+	width: 19px;
+	height: 19px;
+	display: inline-block;
+	margin-left: 410px;
+	background-image: url(img/common_min.png);
+	background-repeat: no-repeat;
+	background-position: 0px -31px;
+}
+.weixin{
+	width: 19px;
+	height: 19px;
+	display: inline-block;
+	margin-left: 18px;
+	background-image: url(img/common_min.png);
+	background-repeat: no-repeat;
+	background-position: 0px -53px;
+}
+.weibo{
+	width: 19px;
+	height: 19px;
+	display: inline-block;
+	margin-left: 18px;
+	background-image: url(img/common_min.png);
+	background-repeat: no-repeat;
+	background-position: 0px -75px;
+}
+.xinxi{
+	width: 15px;
+	height: 15px;
+	display: inline-block;
+	margin-left: 18px;
+	background-image: url(img/common_min.png);
+	background-repeat: no-repeat;
+	background-position: -4px -115px;
+}
+.dingdan{
+	width: 15px;
+	height: 15px;
+	display: inline-block;
+	margin-left: 18px;
+	background-image: url(img/common_min.png);
+	background-repeat: no-repeat;
+	background-position: -4px -115px;
+}
+.phone{
+	width: 15px;
+	height: 17px;
+	display: inline-block;
+	margin-left: 18px;
+	background-image: url(img/phone.png);
+	background-repeat: no-repeat;
+}
+.buycar{
+	width: 19px;
+	height: 17px;
+	display: inline-block;
+	margin-left: 18px;
+	background-image: url(img/gouwuche.jpg);
+	background-repeat: no-repeat;
+}
+.top-two{
+	margin-top: 10px;
+	height: 70px;
+}
+.find{
+	width: 500px;
+	height: 35px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 100px;
+	border:2px solid #fe6c00;
+}
+.but0{
+	width: 83px;
+	height: 39px;
+	background-color: #fe6c00;
+	border: 0px;
+	float:left;
+	margin-top: 10px;
+}
+.li0{
+	float: left;
+	margin-left: 10px;
+}
+.ul0{
+	font-size: 12px;
+	margin-left: 241px;
+}
+.ul1{
+	float: left;
+	font-size: 16px;
+}
+.li1{
+	float: left;
+	margin-top: 20px;
+	margin-left: 50px;
+	height: 40px;
+	text-align: center;
+	line-height: 50px;
+}
+.li2{
+	float: left;
+	margin-left: 40px;
+	color: #ffffff;
+	text-align:center;
+	line-height: 50px;
+}
+.navigate{
+	height: 50px;
+	background-color: black;
+}
+.ul1{
+	margin-left: 210px;
+}
+.content{
+	width: 980px;
+	height: 630px;
+	float: left;
+	padding-top: 20px;
+	padding-left: 20px;
+	background-color: #ffffff;
+	position:relative;
+}
+#kuang{
+	border:1px solid black;
+	float: left;
+	margin-right: 10px;
+}
+#hanliang0{
+	width: 60px;
+	height: 28px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+	display: inline-block;
+	background-image: ;
+	background-repeat: no-repeat;
+	background-position: 49px 15px;
+	cursor: pointer;
+}
+#hanliang1{
+	width: 60px;
+	height: 28px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+	display: inline-block;
+	background-image: ;
+	background-repeat: no-repeat;
+	background-position: 49px 15px;
+	cursor: pointer;
+}
+#deadd{
+	width: 24px;
+	height: 27px;
+	float: left;
+	border:1px solid #cecbc5;
+	text-align:center;
+}
+#num{
+	width: 50px;
+	height: 27px;
+	float: left;
+	border:1px solid #cecbc5;
+	text-align: center;
+}
+#add{
+	width: 24px;
+	height: 27px;
+	float: left;
+	border:1px solid #cecbc5;
+	text-align: center;
+	margin-right: 20px;
+}
+#choose{
+	margin-top: 20px;
+}
+/*fuzhi*/
+.ul2{
+	display: inline-block;
+	margin-left: 55px;
+	font-size: 12px;
+	line-height: 20px;
+	color: #666560;
+}
+.bottom{
+	width: 1160px;
+	height: 200px;
+}
+.bottom-one{
+	padding-bottom: 20px;
+}
+.ul3{
+	margin-top: 20px;
+	margin-left: 290px;
+	font-size: 12px;
+	color: #666560;
+}
+.img0{
+	display: inline-block;
+}
+.ppp{
+	font-size: 12px;
+	color: #666560;
+	text-align: center;
+}
+
+#slider{
+	width:200px;
+	height:200px;
+	position:absolute;
+	left:20px;
+	top:20px;
+	background:#CCC;
+	opacity:0.4;
+	cursor: move;
+	display:none; 
+	filter:alpha(opacity=40);
+}
+
+#img2{
+	position:absolute;
+	right:176px;
+	display:none; 
+	width:400px;
+	height:400px;
+	overflow:hidden;
+	border: 1px dotted purple;
+}
+#Bimg{
+	position:absolute;
+	left:0;
+	top:0;
+}
+#zhao{
+	background-color: #ccc;
+	opacity:0.5;
+	display: none;
+	z-index: 500;
+	left: 0;
+	top: 0;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+}
+#littlebox{
+	background-color: #ffffff;
+	border:1px solid black;
+	width: 400px;
+	height: 300px;
+	display: none;
+	z-index: 900;
+	position: absolute;
+	top: 200px;
+	left: 500px;
+}
