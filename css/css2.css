@@ -17,7 +17,7 @@ a{
 	background-color: #ffffff;
 	width: 1180px;
 	height: 179px;
-	z-index: 500;
+	z-index: 400;
 }
 .QQ{
 	width: 19px;
@@ -256,7 +256,7 @@ a{
 	background-color: #ccc;
 	opacity:0.5;
 	display: none;
-	z-index: 999;
+	z-index: 500;
 	left: 0;
 	top: 0;
 	position: fixed;
